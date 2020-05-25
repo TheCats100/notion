@@ -1,0 +1,11 @@
+Protocole HTTP :
+
+Principe de questions/réponses, émissions de données vers un serveur qui en renvoit en fonction
+
+Bases de données :
+
+API renvoie des données (JSON le plus souvent), besoin d'un langage : SQL permettant de lire les innformations, les stocker, les effacer.
+
+Serveur d'application :
+
+Intermédiaire entre le serveur et l'application (client), passerelle de sécurité (authentification).
